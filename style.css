@@ -1,0 +1,20 @@
+/* .header{
+    padding:70px;
+    text-align: center;
+    background:red ;
+    color: white;
+    font-size: 40px;
+    height: auto;
+    width: auto;
+} */
+
+.navBar{
+    background-color: red;
+    text-align: center;
+    color: white;
+    height: 100px;
+}
+.card{
+    width:200px;
+    height: 425px;
+}
