@@ -7,8 +7,6 @@ data
   - [Command Line](#command-line)
   - [Installation](#installation)
   - [User Story](#user-story)
-  - [Application Requirements](#application-requirements)
-  - [Information that the generator produces:](#Information-that-the-generator-produces)
   - [Environment](#environment)
   
   
