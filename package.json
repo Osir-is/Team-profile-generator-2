@@ -1,20 +1,20 @@
 {
-  "name": "team-profile-generator",
+  
+  "name": "TeamProfile-Generator",
   "version": "1.0.0",
-  "description": "## Your Task",
-  "main": "index.js",
+  "description": "![GitHub license](https://img.shields.io/badge/license-MIT-ff69b4.svg) <br />",
+  "main": "Index.js",
   "directories": {
-    "lib": "lib"
+      "lib": "lib"
   },
   "scripts": {
     "test": "jest"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "inquirer": "^8.1.2"
-  },
+},
   "devDependencies": {
     "jest": "^27.0.6"
-  }
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^7.3.3"
+}
 }
